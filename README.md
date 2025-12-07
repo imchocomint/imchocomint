@@ -1,7 +1,7 @@
 ## About me
-I'm imchocomint, or leg1on if you have been watching my [Youtube channel](https://www.youtube.com/channel/UC6iD1OYmXHfuWubG4O1_W1w) or visited my [Steam profile](https://steamcommunity.com/id/IESXleg1on) before. IRL, my name is Minh. I'm a high school student in Hanoi, Vietnam who like making things. I'm single. 
-
+I'm imchocomint, or leg1on if you have been watching my [Youtube channel](https://www.youtube.com/channel/UC6iD1OYmXHfuWubG4O1_W1w) or visited my [Steam profile](https://steamcommunity.com/id/IESXleg1on) before. IRL, my name is Minh. I'm a high school student in Hanoi, Vietnam who like making things.
 ## Skillset
+[![My Skills](https://skillicons.dev/icons?i=python,bash,github,linux,aiscript)](https://skillicons.dev)
 - Python (beginner-moderate, can write some programs to automate tasks)
 - Bash (beginner, same as above)
 - Linux system (beginner)
