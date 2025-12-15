@@ -17,9 +17,13 @@ I'm imchocomint, or leg1on if you have been watching my [Youtube channel](https:
 
 ## My setup
 A laptop with a keyboard and a mouse, also my gaming machine
-- HP 15s 2022 (Dual-boot Debian sid and Windows 11)
+- Dell Precision 7550 (i7-10885H/32GB/1.5TB/RTX 4000 Max-Q)
 - Akko Monsgeek FUN60 Tri-mode 1K (China exclusive), everything stock. I have two more mechanical keyboards
 - Attack Shark R1
+
+(no image yet due to not being able to boot into Linux)
+
+Old setup:
 
 ![image](https://github.com/user-attachments/assets/8d40356b-9ce4-4807-84c0-636eb1dcfeae)
 
