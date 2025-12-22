@@ -21,10 +21,12 @@ A laptop with a keyboard and a mouse, also my gaming machine
 - Akko Monsgeek FUN60 Tri-mode 1K (China exclusive), everything stock. I have two more mechanical keyboards
 - Attack Shark R1
 
-(no image yet due to not being able to boot into Linux)
+<img width="1920" height="1080" alt="Screenshot_20251222_224806" src="https://github.com/user-attachments/assets/aabc2aed-3d2c-4cac-98d0-640710a9b359" />
+
+I edit with neovim and VS Code, and use both of them equally (VS Code for Go, Python or Ruby; neovim for the rest)
 
 Old setup:
 
 ![image](https://github.com/user-attachments/assets/8d40356b-9ce4-4807-84c0-636eb1dcfeae)
 
-I edit with neovim and VS Code, and use both of them equally (VS Code for Go, Python or Ruby; neovim for the rest)
+
