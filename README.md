@@ -13,7 +13,7 @@ I'm imchocomint, or leg1on if you have been watching my [Youtube channel](https:
 - [meowniverse studio](https://github.com/meowniverse), my other account for large projects.
 - and so on
 ## Other infos or link of my SNSes
-- [Website because why not?](ascendance.qzz.io)
+- [Website because why not?](https://ascendance.qzz.io)
 - [Everything about me](https://linktr.ee/imchocomint)
 
 ## My setup
